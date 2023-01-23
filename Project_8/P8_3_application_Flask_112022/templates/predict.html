@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Prédiction</title>
+        <!-- CSS  -->
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+        <link href="./static/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>  
+  <body>
+  
+    <div class="section no-pad-bot" id="index-banner">
+      <div class="container">
+        <br><br>
+        <h1 class="header center orange-text">Résultat de la prédiction :</h1>
+        <div class="row center">
+          <h5 class="header col s12 light">Mask original versus mask prédit
+          <br>
+          </h5>
+      </div>
+  
+      <div class="row center">
+        <img src="{{ url_for('static', filename='output/output_gt.jpg') }}" style="width: 400px">
+        <br>
+        <img src="{{ url_for('static', filename='output/output_pred.jpg') }}" style="width: 400px">
+
+    </body>
+
+</html>
