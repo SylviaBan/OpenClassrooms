@@ -1,4 +1,4 @@
-# Portfolio :briefcase:
+# Portfolio :notebook_with_decorative_cover:
 Lors de la formation :writing_hand: avec [_OpenClassrooms_](https://www.openclassrooms.com), j'ai développé les produits IA en utilisant des techniques de Data Science. J'ai réalisé 11 projets inspirés du monde du travail.
 
 :alembic: Les compétences acquises : :muscle: :muscle: :muscle:

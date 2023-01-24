@@ -2,12 +2,14 @@
 
 
 Projet 6 [_Améliorez le produit IA de votre start-up_](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Ing%C3%A9nieur_IA_P6/openclassrooms.com-Ame%CC%81liorez+le+produit+IA+de+votre+start-up.pdf)
-avec [_OpenClassrooms_](https://www.openclassrooms.com).
 
-## 📗 Enjeux
+## :pushpin: Enjeux
 Vous êtes Ingénieur IA pour un site qui référence des restaurants. Vous allez travailler sur une nouvelle fonctionnalité de collaboration du produit.
 
-## 🎯 Objectifs
+##  Dataset
+[_yelp_](https://www.yelp.com/dataset)
+
+## :spiral_notepad: Objectifs
 * Classer et segmenter les données visuelles. 
 * Analyser les odnnées textuelles.
 * Analyser les commentaires négatifs pour détecter les différents sujets d’insatisfaction.
@@ -16,7 +18,7 @@ si on arrive à séparer de façon simple les images (simplement via une représ
 si la séparation automatique selon la catégorie réelle (classification non supervisée) est possible.
 * Collecter de nouvelles données via l’API Yelp. Valider la faisabilité de la solution en collectant les informations relatives à environ 200 restaurants pour une ville en utilisant l’API.
 
-## 💻 Technologies
+## :ladder: Technologies
 - Pandas
 - Numpy
 - Matplotlib
@@ -24,13 +26,10 @@ si la séparation automatique selon la catégorie réelle (classification non su
 - Scipy
 - Sklearn (GridSearchCV, LogisticRegression, t-SNE ,LatentDirichletAllocation)
 - Tensorflow
-- TF-IDF : term frequency-inverse document frequency
-
-## 📄 Dataset
-[_yelp_](https://www.yelp.com/dataset)
+- TF-IDF, BOW
 
 
-## 📈 Compétences évaluées
+## :chart_with_upwards_trend: Compétences évaluées
 
 ###  🎓  Collecter des données venant d’une API qui correspondent à un besoin défini
 #### La collecte des données via une API est complète si :

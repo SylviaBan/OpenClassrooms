@@ -1,25 +1,24 @@
-# Participez à un concours sur la Smart City
+# Participez à un concours sur la Smart City :evergreen_tree: :deciduous_tree: :fallen_leaf: :seedling:
 
-Projet 2 [_Participez à un concours sur la Smart City_](https://openclassrooms.com/fr/paths/188/projects/717/assignment)
-avec [_OpenClassrooms_](https://www.openclassrooms.com).
+Projet 2 [_Participez à un concours sur la Smart City_](https://openclassrooms.com/fr/paths/188/projects/717/assignment).
 
-## 📗 Enjeux
+## :pushpin: Enjeux
 Aider la ville de Paris à s'organiser afin d'optimiser l'entretien de son parc arboricole.
 Une analyse exploratoire du jeu de données portant sur les arbres de la ville de Paris.
 
-## 📄 Dataset
+## :spiral_notepad: Dataset
 [_opendata.paris_](https://opendata.paris.fr/explore/dataset/les-arbres/information/?disjunctive.typeemplacement&disjunctive.arrondissement&disjunctive.libellefrancais&disjunctive.genre&disjunctive.espece&disjunctive.varieteoucultivar&disjunctive.stadedeveloppement&disjunctive.remarquable)
 
-## 🎯 Objectifs
+## :laddder: Objectifs
 Analyse exploratoire - nettoyer et analyser le jeu de données.
 
-## 💻 Technologies
+## :wrench: Technologies
 - Pandas 
-- Numpy  
+- Numpy
 - Matplotlib 
 - Seaborn  
 
-## 📈 Compétences évaluées
+## :chart_with_upwards_trend: Compétences évaluées
 
 ###  🎓  Utiliser des librairies python pour réaliser une analyse de données exploratoires
  

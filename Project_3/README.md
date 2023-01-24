@@ -1,24 +1,19 @@
-# Préparer des données pour un organisme de Santé Publique
+# Préparer des données pour un organisme de Santé Publique 	:microscope: :stethoscope: :pill:
 
-Projet 3 [_Préparer des données pour une organisme de santé publique _](https://openclassrooms.com/fr/paths/188/projects/717/assignment)
-avec [_OpenClassrooms_](https://www.openclassrooms.com).
+Projet 3 [_Préparer des données pour une organisme de santé publique_](https://openclassrooms.com/fr/paths/188/projects/717/assignment).
 
-## 📗 Enjeux
-Un organisme de Santé Publique souhaite aider les agents à exploiter leurs données brutes.
-Objectifs :
 
-* Rendre les données de santé publique plus accessibles, pour qu’elles soient utilisables par les agents de *Santé publique France*.
+## :pushpin: Enjeux
+Un organisme de Santé Publique souhaite aider les agents à exploiter leurs données brutes. L'objectif est de rendre les données de Santé Publique plus accessibles, pour qu’elles soient utilisables par les agents de *Santé publique France*. Ensuite, réaliser une exploration et visualisation des données, afin que les agents puissent ensuite s’appuyer sur les résultats.
 
-* Réaliser une exploration et visualisation des données, afin que les agents puissent ensuite s’appuyer sur nos résultats.
-
-## 📄 Dataset
+## :spiral_notepad: Dataset
 [_fr.openfoodfacts.org.products.csv_](https://s2-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/parcours-data-scientist/P2/fr.openfoodfacts.org.products.csv.zip)
 
-## 🎯 Objectifs
+## :ladder: Objectifs
 * Analyse exploratoire
 * Mise en place d'un prototype d'application alimentaire.
 
-## 💻 Technologies
+## :wrench: Technologies
 - Pandas
 - Numpy
 - Matplotlib
@@ -26,7 +21,7 @@ Objectifs :
 - Scipy
 - Sklearn
 
-## 📈 Compétences évaluées
+## :chart_with_upwards_trend: Compétences évaluées
 
 ###  🎓 Effectuer des opérations de nettoyage sur des données structurées
 

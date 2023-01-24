@@ -1,22 +1,20 @@
-# Construisez un modèle de scoring
+# Construisez un modèle de scoring :moneybag: :chart:
 
+Projet 4 [_Construisez un modèle de scoring_](https://openclassrooms.com/fr/paths/188/projects/719/assignment).
 
-Projet 4 [_Construisez un modèle de scoring_](https://openclassrooms.com/fr/paths/188/projects/719/assignment)
-avec [_OpenClassrooms_](https://www.openclassrooms.com).
-
-## 📗 Enjeux
+## :pushpin: Enjeux
 Pour accorder un crédit, l'entreprise Home Credit doit estimer la solvabilité d'un client. Elle souhaite donc développer une classification automatique de scoring pour décider si un prêt peut être accordé ou non.
 Mise en œuvre d'un outil de "scoring" qui calcule la probabilité de remboursement de crédit par un client.
 
-## 📄 Dataset
+## :spiral_notepad: Dataset
 [_olist_](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Impl%C3%A9menter+un+mod%C3%A8le+de+scoring/Projet+Mise+en+prod+-+home-credit-default-risk.zip)
 
-## 🎯 Objectifs
+## :ladder: Objectifs
 * Utiliser des modèles supervisés linéaires et non linéaires.
 * Développer un algorithme de classification pour aider les chargés de relation client à décider si un prêt peut être accordé à un client.
 * Fournir une mesure de l’importance des variables qui ont poussé le modèle à donner une probabilité à un client.
 
-## 💻 Technologies
+## :wrench: Technologies
 - Pandas
 - Numpy
 - Matplotlib
@@ -25,7 +23,7 @@ Mise en œuvre d'un outil de "scoring" qui calcule la probabilité de remboursem
 - Sklearn (RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier, LogisticRegression, PolynomialFeatures, train_test_split, GridSearchCV, confusion_matrix)
 
 
-## 📈 Compétences évaluées
+## :chart_with_upwards_trend: Compétences évaluées
 
 ###  🎓  Transformer les variables pertinentes pour un modèle supervisé classique (= feature engineering)
 

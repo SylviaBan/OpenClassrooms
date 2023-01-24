@@ -1,18 +1,21 @@
-# Participez à la conception d'une voiture autonome
+# Participez à la conception d'une voiture autonome :red_car: :bike: :skateboard: :busstop:
 
-Projet 7 [_Participez à la conception d'une voiture autonome_](https://openclassrooms.com/fr/projects/723/assignment)
-avec [_OpenClassrooms_](https://www.openclassrooms.com).
+Projet 8 [_Participez à la conception d'une voiture autonome_](https://openclassrooms.com/fr/projects/723/assignment)
 
-## 📗 Enjeux
+
+## :pushpin: Enjeux
 Votre entreprise conçoit des systèmes embarqués de vision par ordinateur pour les véhicules autonomes. Dans l’équipe projet, vous êtes responsable de la segmentation des images.
 Votre rôle est de concevoir un premier modèle de segmentation d’images qui devra s’intégrer facilement dans la chaîne complète du système embarqué.
 
-## 🎯 Objectif
+## :spiral_notepad: Dataset
+[_cityscapes_](https://www.cityscapes-dataset.com/dataset-overview/)
+
+## :ladder: Objectifs
 Analyse exploratoire
 Apprentissage non supervisé
 Deep Learning sur des données textuelles
 
-## 💻 Technologies
+## :wrench: Technologies
 - Pandas
 - Numpy 
 - Matplotlib
@@ -22,10 +25,7 @@ Deep Learning sur des données textuelles
 - Tensorflow
 - Docker, Flask, Heroku, Pythonanywhere, GCP
 
-## 📄 Dataset
-[_cityscapes_](https://www.cityscapes-dataset.com/dataset-overview/)
-
-## 📈 Compétences évaluées
+## :chart_with_upwards_trend: Compétences évaluées
 
 ###  🎓  Entraîner un modèle de Deep Learning sur des images
 #### L’entraînement d’un modèle de Deep Learning sur des images est réalisé si :
@@ -33,13 +33,11 @@ Deep Learning sur des données textuelles
 >- la séparation du jeu de données en jeu d’entraînement et en jeu de test a été réalisée 
 >- il n’y a pas de fuite d’information entre les deux jeux de données (entraînement et test)
 
-
 #### L’entraînement d’un modèle de Deep Learning sur des images est pertinente si :
 >- Plusieurs modèles ont été essayés en partant du plus simple vers les plus complexes
 
 #### L’entraînement d’un modèle de Deep Learning sur des images est présentable si :
 >- Le modèle a été déployé grâce à une API Flask ou FastAPI
-
 >- Le modèle prend en entrée une image et retourne l’image des segments identifiés par le modèle (mask)
 
 ###  🎓  Evaluer la performance d’un modèle de Deep Learning sur des images 
@@ -55,7 +53,6 @@ Deep Learning sur des données textuelles
 
 #### L’évaluation des performances d’un modèle de Deep Learning sur des images est présentable si :
 >- une synthèse comparative des différents modèles a été rédigée dans la note technique (ex : tableau comparatif des résultats pour les différents modèles)
-
 >- le choix de la métrique d’évaluation a été explicité 
 
 ###  🎓  Utiliser des techniques d’augmentation des données
