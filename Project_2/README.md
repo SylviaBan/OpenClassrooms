@@ -5,12 +5,13 @@ avec [_OpenClassrooms_](https://www.openclassrooms.com).
 
 ## 📗 Enjeux
 Aider la ville de Paris à s'organiser afin d'optimiser l'entretien de son parc arboricole.
+Une analyse exploratoire du jeu de données portant sur les arbres de la ville de Paris.
 
 ## 📄 Dataset
 [_opendata.paris_](https://opendata.paris.fr/explore/dataset/les-arbres/information/?disjunctive.typeemplacement&disjunctive.arrondissement&disjunctive.libellefrancais&disjunctive.genre&disjunctive.espece&disjunctive.varieteoucultivar&disjunctive.stadedeveloppement&disjunctive.remarquable)
 
 ## 🎯 Objectifs
-Analyse exploratoire 
+Analyse exploratoire - nettoyer et analyser le jeu de données.
 
 ## 💻 Technologies
 - Pandas 
