@@ -52,10 +52,8 @@ Présenter un support de présentation qui comprendra :
 
 ###  🎓  Planifier des réponses adéquates en regard des risques projets significatifs
 #### La planification des réponses adéquates en regard des risques projets significatifs est réalisée si :
-
 >- au moins trois risques projets ont été identifiés 
 >- des plans de mitigation des risques ont été prévus
-
 
 #### La planification des réponses adéquates en regard des risques projets significatifs est présentable si :
 >- une synthèse de la planification des réponses adéquates en regard des risques projets a été rédigée dans le support de présentation

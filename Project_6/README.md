@@ -1,10 +1,13 @@
-# Améliorez le produit IA de votre start-up
+# Améliorez le produit IA de votre start-up :pancakes: :hamburger: :fried_egg: :green_salad: :pizza:
 
 
 Projet 6 [_Améliorez le produit IA de votre start-up_](https://s3.eu-west-1.amazonaws.com/course.oc-static.com/projects/Ing%C3%A9nieur_IA_P6/openclassrooms.com-Ame%CC%81liorez+le+produit+IA+de+votre+start-up.pdf)
 
 ## :pushpin: Enjeux
-Vous êtes Ingénieur IA pour un site qui référence des restaurants. Vous allez travailler sur une nouvelle fonctionnalité de collaboration du produit.
+Votre entreprise souhaite améliorer sa plateforme avec une nouvelle fonctionnalité de collaboration.
+Les utilisateurs pourront par exemple poster des avis et des photos sur leur restaurant préféré. 
+Ce sera aussi l’occasion, pour l’entreprise, de mieux comprendre les avis postés par les utilisateurs.
+
 
 ##  Dataset
 [_yelp_](https://www.yelp.com/dataset)

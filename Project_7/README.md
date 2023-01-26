@@ -1,79 +1,41 @@
-# Détectez les Bad Buzz grâce au Deep Learning :pancakes: :hamburger: :fried_egg: :green_salad: :pizza:
+# Détectez les Bad Buzz grâce au Deep Learning :smile: :cursing_face: :disappointed: :triumph:
 
-Projet 7 [_Détectez les Bad Buzz grâce au Deep Learning_](https://www.kaggle.com/kazanova/sentiment140)
+Projet 7 [_Détectez les Bad Buzz grâce au Deep Learning_](https://openclassrooms.com/fr/paths/188/projects/722/assignment)
 
 
 ## :pushpin: Enjeux
-Votre entreprise souhaite améliorer sa plateforme avec une nouvelle fonctionnalité de collaboration.
-Les utilisateurs pourront par exemple poster des avis et des photos sur leur restaurant préféré. 
-Ce sera aussi l’occasion, pour l’entreprise, de mieux comprendre les avis postés par les utilisateurs.
+Parvenir à identifier le sentiment d’un tweet : savoir s’il est positif ou négatif, s’il est susceptible de provoquer un buzz potentiellement nuisible à la réputation de la société Air Paradis.
 
 ## :spiral_notepad: Dataset
-[_yelp_](https://www.yelp.com/dataset)
+[_Tweets Open source_](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ## :ladder: Objectifs
-Analyse exploratoire
-Apprentissage non supervisé
-Deep Learning sur des données textuelles
+Créer le prototype d’un produit IA permettant de prédire le sentiment associé à un Tweet : le modèle doit envoyer un tweet et récupérer la prédiction de sentiment.
+
+Réaliser les trois approches :
+
+* Modèle sur mesure simple
+** un modèle classique de classification binaire
+* Modèle sur mesure avancé
+**  développer un modèle basé sur des réseaux de neurones profonds avec une couche d'embedding
+** essayer au moins deux word embeddings différents
+* Modèle avancé BERT
+
+Finalement, déployer la solution la plus performante via l'API : le service recevra en entrée un tweet et retournera le sentiment associé au tweet prédit par le modèle.
 
 ## :wrench: Technologies
-- Pandas
-- Numpy 
-- Matplotlib
-- Seaborn
-- Scipy
-- Sklearn (GridSearchCV, LogisticRegression, t-SNE ,LatentDirichletAllocation)
-- Tensorflow
-- Flask, Heroku, Pythonanywhere
-- Word Embeddings
-- Deep Learning : RNN, LSTM
+- MLOps
+- Deep Learning, BERT
 
 ## :chart_with_upwards_trend: Compétences évaluées
 
-###  🎓  Collecter des données venant d’une API qui correspondent à un besoin défini
-#### La collecte des données via une API est complète si :
->- une requête pour obtenir les données via l’API a été  écrite, testée et renvoie bien des données en retour
-#### La collecte des données via une API est pertinente si :
->- seuls les champs nécessaires ont été récupérés 
->- au moins un filtre a été appliqué sur un des champs nécessaires pour ne collecter que les avis ayant les valeurs correspondantes sur ces champs 
-#### La collecte des données via une API est pertinente si :
->- les données collectées via l’API sont stockées dans un fichier utilisable (ex. : fichier CSV, avec en colonnes les différentes informations correspondant aux avis)
-
-###  🎓  Effectuer un prétraitement de données non structurées pour obtenir un jeu de données utilisable
-#### Le prétraitement de données non structurées pour obtenir un jeu de données utilisable est complet si :
->- les champs de texte sont nettoyés : la ponctuation et les mots de liaison ont été retirés, les chaînes de caractères ont été mises en minuscules
->- au moins une parmi les trois transformations “stemming”, “tokenization”, “lemmatization” a été appliquée 
->- le bruit sur les images a été filtré
->- l’histogramme a été égalisé sur les images
-
-#### Le prétraitement de données non structurées pour obtenir un jeu de données utilisable est pertinent si :
->- pour le texte, au moins un bag-of-words a été créé, incluant des étapes de nettoyage supplémentaires, comme un seuil de fréquence et la normalisation des mots
->- pour les images, un algorithme d’extraction de features a été créé (ORB, SIFT, SURF), et un algorithme de Transfert Learning basé sur des réseaux de neurones, comme par exemple CNN, a été créé
-
-#### Le prétraitement de données non structurées pour obtenir un jeu de données utilisable est présentable si :
->- l’enchaînement des étapes de nettoyage et de création de variables pour les images et le texte a été automatisé (en écrivant les différentes étapes sous forme de fonction, puis en utilisant un pipeline) et a été testé sur un exemple
-
-###  🎓  Utiliser des techniques de réduction de la dimension
-	
-#### L’utilisation des techniques de réduction de la dimension est complète si :
-
->- une méthode de réduction de dimension a été appliquée sur les données texte et sur les données images
-
-#### L’utilisation des techniques de réduction de la dimension est pertinente si :
-
->- une justification du fait d’appliquer une réduction de dimension sur les données texte et image a été donnée
-
->- une justification des choix des valeurs des paramètres dans la méthode de réduction de dimension retenue a été donnée (ex. : le nombre de dimensions conservées pour l'ACP)
-
-###  🎓 Visualiser des données de grandes dimensions
-#### La visualisation des données en grande dimension est complète si :
->- au moins un graphique représentant des informations contenant plus de deux dimensions a été réalisé 
-
-
-#### La visualisation des données en grande dimension est pertinente si :
->-  le choix de la méthode de représentation graphique a été justifié (T-SNE…)
->- la lecture du graphique a été facilitée en explicitant les différents éléments pour un public non expert
-
-#### La visualisation des données en grande dimension est présentable si :
->-  le graphique réalisé est lisible et compréhensible (ex. : taille des titres et légende)
+#### 🎓 Choisir la méthode de plongement de mots pertinente pour un modèle de Deep Learning
+#### 🎓 Concevoir et assurer un déploiement continu d'un moteur d’inférence dans le Cloud
+#### 🎓 Évaluer la performance d’un modèle de Deep Learning sur des données textuelles
+#### 🎓 Réaliser la présentation orale d’une démarche de modélisation
+#### 🎓 Rédiger une note méthodologique afin de communiquer sa démarche de modélisation
+#### 🎓 Définir et mettre en œuvre un pipeline d’entraînement des modèles
+#### 🎓 Entraîner un modèle Deep Learning sur des données textuelles
+#### 🎓 Mettre en œuvre un logiciel de version de code
+#### 🎓 Sélectionner les méthodes de prétraitement du texte pour un modèle de Deep Learning
 
