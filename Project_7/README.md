@@ -15,10 +15,10 @@ Créer le prototype d’un produit IA permettant de prédire le sentiment associ
 Réaliser les trois approches :
 
 * Modèle sur mesure simple
-** un modèle classique de classification binaire
+ ** un modèle classique de classification binaire
 * Modèle sur mesure avancé
-**  développer un modèle basé sur des réseaux de neurones profonds avec une couche d'embedding
-** essayer au moins deux word embeddings différents
+ **  développer un modèle basé sur des réseaux de neurones profonds avec une couche d'embedding
+ ** essayer au moins deux word embeddings différents
 * Modèle avancé BERT
 
 Finalement, déployer la solution la plus performante via l'API : le service recevra en entrée un tweet et retournera le sentiment associé au tweet prédit par le modèle.
