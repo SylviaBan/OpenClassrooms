@@ -1,6 +1,6 @@
 # Participez à un concours sur la Smart City :evergreen_tree: :deciduous_tree: :fallen_leaf: :seedling:
 
-Projet 2 [_Participez à un concours sur la Smart City_](https://openclassrooms.com/fr/paths/188/projects/717/assignment).
+Projet 2 [_Participez à un concours sur la Smart City_](https://openclassrooms.com/fr/paths/188/projects/717/assignment)
 
 ## :pushpin: Enjeux
 Aider la ville de Paris à s'organiser afin d'optimiser l'entretien de son parc arboricole.

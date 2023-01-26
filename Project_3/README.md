@@ -1,6 +1,6 @@
 # Préparer des données pour un organisme de Santé Publique 	:microscope: :stethoscope: :pill:
 
-Projet 3 [_Préparer des données pour une organisme de santé publique_](https://openclassrooms.com/fr/paths/188/projects/717/assignment).
+Projet 3 [_Préparer des données pour une organisme de santé publique_](https://openclassrooms.com/fr/paths/188/projects/717/assignment)
 
 
 ## :pushpin: Enjeux

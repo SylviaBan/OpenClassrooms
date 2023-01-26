@@ -1,6 +1,6 @@
 # Construisez un modèle de scoring :moneybag: :chart:
 
-Projet 4 [_Construisez un modèle de scoring_](https://openclassrooms.com/fr/paths/188/projects/719/assignment).
+Projet 4 [_Construisez un modèle de scoring_](https://openclassrooms.com/fr/paths/188/projects/719/assignment)
 
 ## :pushpin: Enjeux
 Pour accorder un crédit, l'entreprise Home Credit doit estimer la solvabilité d'un client. Elle souhaite donc développer une classification automatique de scoring pour décider si un prêt peut être accordé ou non.

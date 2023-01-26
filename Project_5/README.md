@@ -1,6 +1,6 @@
 # Segmentez des clients d'un site e-commerce :person_curly_hair: :red_haired_woman: :white_haired_man: :curly_haired_woman: :white_haired_woman: :blond_haired_person:
 
-Projet 5 [_Segmentez des clients d'un site e-commerce_](https://openclassrooms.com/fr/paths/188/projects/630/assignment).
+Projet 5 [_Segmentez des clients d'un site e-commerce_](https://openclassrooms.com/fr/paths/188/projects/630/assignment)
 
 ## :pushpin: Enjeux
 Vous êtes consultant pour Olist, un site e-commerce brésilien. Les équipes marketing ont besoin de segmenter leurs clients pour optimiser les campagnes de communication.
