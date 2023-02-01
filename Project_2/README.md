@@ -9,14 +9,16 @@ Une analyse exploratoire du jeu de données portant sur les arbres de la ville d
 ## :spiral_notepad: Dataset
 [_opendata.paris_](https://opendata.paris.fr/explore/dataset/les-arbres/information/?disjunctive.typeemplacement&disjunctive.arrondissement&disjunctive.libellefrancais&disjunctive.genre&disjunctive.espece&disjunctive.varieteoucultivar&disjunctive.stadedeveloppement&disjunctive.remarquable)
 
-## :laddder: Objectifs
-Analyse exploratoire - nettoyer et analyser le jeu de données.
+## :ladder: Objectifs
+Effectuer une analyse statistique univariée & multivariée.
+Effectuer des opérations de nettoyage sur des données structurées.
+Communiquer ses résultats à l’aide de représentations graphiques lisibles et pertinentes.
 
 ## :wrench: Technologies
 - Pandas 
 - Numpy
 - Matplotlib 
-- Seaborn  
+- Seaborn
 
 ## :chart_with_upwards_trend: Compétences évaluées
 

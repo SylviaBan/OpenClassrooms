@@ -13,12 +13,12 @@ Ce sera aussi l’occasion, pour l’entreprise, de mieux comprendre les avis po
 [_yelp_](https://www.yelp.com/dataset)
 
 ## :spiral_notepad: Objectifs
-* Classer et segmenter les données visuelles. 
-* Analyser les odnnées textuelles.
+* Classer et segmenter les données visuelles. Analyser les données textuelles.
+* Sélectionner un modèle d'apprentissage Deep Learning adapté à une problèmatique métier.
+* Transformer les variables pertinentes d'un modèle de Deep Learning.
+* Mettre en place un modèle de Deep Learning et évaluer ses performances. Adapter les paramètres d'un modèle de Deep Learning afin de l’améliorer.
 * Analyser les commentaires négatifs pour détecter les différents sujets d’insatisfaction.
-* Analyser les photos pour déterminer leurs catégories (nourriture, décor dans le restaurant ou à l’extérieur du restaurant). Faire une étude de faisabilité, c'est-à-dire savoir rapidement :
-si on arrive à séparer de façon simple les images (simplement via une représentation en 2D)
-si la séparation automatique selon la catégorie réelle (classification non supervisée) est possible.
+* Analyser les photos pour déterminer leurs catégories (nourriture, décor dans le restaurant ou à l’extérieur du restaurant). Faire une étude de faisabilité, c'est-à-dire savoir rapidement si la séparation automatique selon la catégorie réelle (classification non supervisée) est possible.
 * Collecter de nouvelles données via l’API Yelp. Valider la faisabilité de la solution en collectant les informations relatives à environ 200 restaurants pour une ville en utilisant l’API.
 
 ## :ladder: Technologies

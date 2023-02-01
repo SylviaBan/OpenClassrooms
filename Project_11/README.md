@@ -6,7 +6,7 @@ Projet 11 [_Réalisez le cadrage d'un projet IA_](https://openclassrooms.com/fr/
 ## :pushpin: Enjeux
 Dans quelques jours va se tenir le COMEX qui validera la roadmap produit de votre entreprise. Vous allez cadrer le projet afin de convaincre les dirigeants que votre produit possède un fort potentiel.
 
-## :spiral_notepad: Objectifs
+## :ladder: Objectifs
 Préparer :
 * le dimensionnement (chiffrage détaillé et estimation de la rentabilité)
 * le registre des traitements CNIL pour au moins un traitement orienté IA

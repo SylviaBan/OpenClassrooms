@@ -14,9 +14,14 @@ Au final, vous devrez fournir à l’équipe marketing une description actionabl
 [_olist_](https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Impl%C3%A9menter+un+mod%C3%A8le+de+scoring/Projet+Mise+en+prod+-+home-credit-default-risk.zip)
 
 ## :ladder: Objectifs
+* Représenter graphiquement des données à grandes dimensions.
+* Mettre en œuvre des techniques d’extraction de features pour des données non structurées.
+* Mettre en œuvre des techniques de réduction de dimension.
+* Prétraiter des données non structurées pour obtenir un jeu de données exploitable.
 * Utiliser des modèles non supervisés.
 * Développer un algorithme de segmentation pour aider les l’équipes e-commerce à mieux communiquer avec les clients.
 * Proposer un contrat de maintenance basé sur une analyse de la stabilité des segments au cours du temps.
+
 
 ## :wrench: Technologies
 - Pandas
@@ -28,10 +33,10 @@ Au final, vous devrez fournir à l’équipe marketing une description actionabl
 
 ## :chart_with_upwards_trend: Compétences évaluées
 
-###  🎓  Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
+###  🎓 Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
 
-###  🎓  Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
+###  🎓 Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
 
-###  🎓  Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
+###  🎓 Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer
 
 ###  🎓 Évaluer les performances d’un modèle d'apprentissage non supervisé

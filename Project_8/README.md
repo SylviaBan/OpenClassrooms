@@ -11,9 +11,9 @@ Votre rôle est de concevoir un premier modèle de segmentation d’images qui d
 [_cityscapes_](https://www.cityscapes-dataset.com/dataset-overview/)
 
 ## :ladder: Objectifs
-Analyse exploratoire
-Apprentissage non supervisé
-Deep Learning sur des données textuelles
+Entraîner un modèle de Deep Learning sur des images et évaluer ses performances.
+Utiliser des techniques d’augmentation des données.
+Manipuler un jeu de données volumineux (générateur de données).
 
 ## :wrench: Technologies
 - Pandas
@@ -21,7 +21,7 @@ Deep Learning sur des données textuelles
 - Matplotlib
 - Seaborn
 - Scipy
-- Sklearn (GridSearchCV, LogisticRegression, t-SNE ,LatentDirichletAllocation)
+- Sklearn (GridSearchCV, LogisticRegression, t-SNE, LatentDirichletAllocation)
 - Tensorflow
 - Docker, Flask, Heroku, Pythonanywhere, GCP
 
