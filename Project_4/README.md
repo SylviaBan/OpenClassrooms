@@ -21,6 +21,9 @@ Mise en œuvre d'un outil de "scoring" qui calcule la probabilité de remboursem
 - Seaborn
 - Scipy
 - Sklearn (RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier, LogisticRegression, PolynomialFeatures, train_test_split, GridSearchCV, confusion_matrix)
+- Imbalanced Learn
+
+#machineLearning #supervisedLearning #logisticRegression #randomForests #adaboost #classification #true-false-positive-negative #hyperParameters #oneHotEncoding #labelEncoder #accuracy #precision #recall #f1Score #rocAuc #imbalancedClass #gridSearch #fBetaScore #exploratoryDataAnalysis #dataVisualization #dataScience #artificialIntelligence #bigData #finance
 
 
 ## :chart_with_upwards_trend: Compétences évaluées

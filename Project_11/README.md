@@ -23,6 +23,10 @@ Présenter un support de présentation qui comprendra :
 
 ## :wrench: Technologies
 - MS Office
+- AGILE
+- Microsoft Azure
+
+#AIproductManagement #Project Management #businessStrategyForAIandData #AIethics #AIprivacy #AIbias #AIuserExperience #AIriskAnalysis #agile #swotAnalysis #datascience #artificialIntelligence #scrum #productManagement #bigdata
 
 ## :chart_with_upwards_trend: Compétences évaluées
 

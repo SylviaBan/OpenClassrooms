@@ -31,6 +31,8 @@ Au final, vous devrez fournir à l’équipe marketing une description actionabl
 - Scipy
 - Sklearn (PCA, GridSearchCV, KMeans)
 
+#machineLearning #unsupervisedLearning #clustering #customerSegmentation #kmeans #kprototype #dbscan #knn #recencyFrequencyMonetary #RFM #exploratoryDataAnalysis #standardization #encoding #outliers #missingValues #dimensionalityReduction #principalComponentsAnalysis #dataVisualization #dataScience #artificialIntelligence #bigData #marketing #e-commerce
+
 ## :chart_with_upwards_trend: Compétences évaluées
 
 ###  🎓 Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé

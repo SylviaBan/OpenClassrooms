@@ -20,8 +20,12 @@ Adapter les hyperparamètres d'un algorithme d'apprentissage supervisé afin de 
 - Numpy
 - Matplotlib
 - Seaborn
-- Scipy
+- Plotly
 - Sklearn
+- Voilà
+
+#exploratoryDataAnalysis #univariateDataAnalysis #multivariateDataAnalysis #dimensionalityReduction #principalComponentsAnalysis #pca #analysisOfVariance #anova #dataVisualization #dataAnalysis #dashboard #voilà #bigData
+
 
 ## :chart_with_upwards_trend: Compétences évaluées
 

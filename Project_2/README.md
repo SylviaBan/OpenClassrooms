@@ -19,6 +19,10 @@ Communiquer ses résultats à l’aide de représentations graphiques lisibles e
 - Numpy
 - Matplotlib 
 - Seaborn
+- Jupyter
+- Anaconda
+
+#exploratoryDataAnalysis #univariateDataAnalysis #multivariateDataAnalysis #dataVisualization #dataAnalysis #dataScience #artificialIntelligence #bigData #hackathons #environmental
 
 ## :chart_with_upwards_trend: Compétences évaluées
 

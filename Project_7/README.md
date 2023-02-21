@@ -24,8 +24,12 @@ Réaliser les trois approches :
 Finalement, déployer la solution la plus performante via l'API : le service recevra en entrée un tweet et retournera le sentiment associé au tweet prédit par le modèle.
 
 ## :wrench: Technologies
-- MLOps
-- Deep Learning, BERT
+- Pandas, Numpy, Seaborn, Matplotlib, Scikit-learn, Tensorflow, Keras
+- FAST API, Heroku
+- NLP, BERT, Word2Vec, GloVe
+- Deep Learning, Neural Networks
+
+#machineLearning #AzureMachineLearning #AzureCognitiveServices #MicrosoftAzure #deepLearning #naturalLanguageProcessing #NLP #stemming #lemmatization #wordEmbeddings #matrixEmbedding #word2vec #glove #padding #wordclouds #tensorFlow #keras #heroku #fastAPI #confusionMatrix #accuracy #precision #recall #f1Score #AUC #logisticRegression #featureHashing #nGramFeatureExtraction #frequencyScore #TF-IDF #recurrentNeuralNetwork #bidirectionalNeuralNetwork #LSTM #GPU #prototype #exploratoryDatanalysis #dataScience #artificialIntelligence #bigdata #digitalMarketing #consulting #tweets
 
 ## :chart_with_upwards_trend: Compétences évaluées
 

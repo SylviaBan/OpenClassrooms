@@ -27,9 +27,13 @@ Ce sera aussi l’occasion, pour l’entreprise, de mieux comprendre les avis po
 - Matplotlib
 - Seaborn
 - Scipy
-- Sklearn (GridSearchCV, LogisticRegression, t-SNE ,LatentDirichletAllocation)
+- Sklearn (GridSearchCV, LogisticRegression, t-SNE, LatentDirichletAllocation)
 - Tensorflow
-- TF-IDF, BOW
+- NLP, TF-IDF, BOW
+- REST API
+- CV2
+
+#machineLearning #supervisedLearning #naturalLanguageProcessing #NLP #stemming #tokenization #lemmatization #APIscraping #webScraping #json #imageClassification #topicModeling #latentDirichletAllocation #computerVision #principalComponentAnalysis #convolutionalNeuralNetwork #exploratoryDataAnalysis #dataVisualization #dataScience #artificialIntelligence #bigData #startup #app
 
 
 ## :chart_with_upwards_trend: Compétences évaluées
@@ -72,7 +76,7 @@ Ce sera aussi l’occasion, pour l’entreprise, de mieux comprendre les avis po
 >- au moins un graphique représentant des informations contenant plus de deux dimensions a été réalisé 
 
 #### La visualisation des données en grande dimension est pertinente si :
->-  le choix de la méthode de représentation graphique a été justifié (T-SNE…)
+>- le choix de la méthode de représentation graphique a été justifié (T-SNE…)
 >- la lecture du graphique a été facilitée en explicitant les différents éléments pour un public non expert
 
 #### La visualisation des données en grande dimension est présentable si :

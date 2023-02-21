@@ -23,7 +23,10 @@ Manipuler un jeu de données volumineux (générateur de données).
 - Scipy
 - Sklearn (GridSearchCV, LogisticRegression, t-SNE, LatentDirichletAllocation)
 - Tensorflow
+- DeepLearning
 - Docker, Flask, Heroku, Pythonanywhere, GCP
+
+#machineLearning #dataScience #computerVision #deepLearning #neuralNetworks #cnn #unet #restnet34 #fpn #artificialIntelligence #bigdata #R&D
 
 ## :chart_with_upwards_trend: Compétences évaluées
 
